@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ Display\ for\ a\ name\ and\ sub-name\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=name\ subName
+comment1.target=Display(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructer\ for\ a\ display\ \r\n
+comment2.params=name
+comment2.target=void\ updateImage(java.lang.String)
+comment2.text=\r\n\ Updates\ the\ sub\ name\ for\ the\ display\r\n
+numComments=3

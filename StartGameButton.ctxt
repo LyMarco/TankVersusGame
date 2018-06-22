@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartGameButton
+comment0.text=\r\n\ Starts\ the\ game\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=MainMenu
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Constructor\ for\ StartGameButton\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

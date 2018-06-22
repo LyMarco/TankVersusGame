@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Projectiles\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=startX\ startY\ Vx\ Vy
+comment1.target=Projectile(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ projectiles\r\n
+comment2.params=Terrain
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Sets\ starting\ location\ of\ the\ projectile\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=boolean\ hasLanded()
+comment4.text=\r\n\ Checks\ if\ there\ is\ an\ object\ from\ the\ projectile\ to\ the\ vertical\ and\ horizontal\ velocity.\ If\ there\ is,\ snaps\ to\ that\ object\ and\ lands.\r\n
+comment5.params=blastRadius\ damageRadius
+comment5.target=void\ explode(int,\ int)
+comment5.text=\r\n\ Removes\ object,\ removing\ all\ tiles\ in\ range\ of\ blastRadius,\ deals\ damage\ to\ any\ tanks\ within\ damageRadius.\r\n
+comment6.params=blastRadius\ damageRadius\ explode2
+comment6.target=void\ explode(int,\ int,\ greenfoot.GreenfootSound)
+comment7.params=
+comment7.target=void\ outOfBounds()
+comment7.text=\r\n\ Removes\ the\ object\ if\ it\ is\ out\ of\ the\ bounds\ of\ the\ terrain\r\n
+numComments=8

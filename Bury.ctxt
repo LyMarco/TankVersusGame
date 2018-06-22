@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bury
+comment0.text=\r\n\ Creates\ a\ dirt\ pile\ after\ 1.5\ seconds\ of\ being\ shot\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=startX\ startY\ Vx\ Vy
+comment1.target=Bury(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ Bury\ projectile\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bury\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ drop()
+comment3.text=\r\n\ Creates\ dirt\ pile\r\n
+numComments=4

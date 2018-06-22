@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Turret
+comment0.text=\r\n\ Turret\ for\ the\ tanks\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=
+comment1.target=double\ getRadRotation()
+comment1.text=\r\n\ Returns\ the\ rotation\ of\ the\ turret\ in\ radians\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ Returns\ the\ length\ of\ the\ turret\r\n
+numComments=3

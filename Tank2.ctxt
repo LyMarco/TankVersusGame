@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tank2
+comment0.text=\r\n\ Player\ 2\ Tank\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=
+comment1.target=Tank2()
+comment1.text=\r\n\ Constructor\ for\ Tank1.\r\n
+comment2.params=Terrain
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Creates\ all\ objects\ and\ marks\ timers\ associated\ with\ the\ object.\ Sets\ specific\ turret\ rotation.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

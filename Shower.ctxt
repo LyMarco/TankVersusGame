@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shower
+comment0.text=\r\n\ Shower\ projectile\ spreads\ into\ 5\ different\ shots\ with\ deviated\ horizontal\ velocities\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=startX\ startY\ Vx\ Vy
+comment1.target=Shower(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ Shower\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Shot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ spread()
+comment3.text=\r\n\ Creates\ more\ shots\ with\ varying\ horizontal\ velocities,\ branching\ from\ the\ original\ shower\ shot\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Terrain
+comment0.text=\r\n\ Main\ terrain\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ Help\ with\ terrain\ generation\ from\ Hyson\ Leung\r\n\ @version\ 2.2\r\n
+comment1.params=
+comment1.target=Terrain()
+comment1.text=\r\n\ Constructor\ for\ the\ game\ terrain\r\n
+comment2.params=
+comment2.target=void\ terminateMusic()
+comment2.text=\r\n\ Stops\ the\ background\ sound\ of\ Terrain\r\n
+numComments=3

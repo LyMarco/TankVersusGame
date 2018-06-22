@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BigShot
+comment0.text=\r\n\ Larger\ explosion\ radius,\ explodes\ 2\ seconds\ after\ landing\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=startX\ startY\ Vx\ Vy
+comment1.target=BigShot(double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ Bigshot\ projectile\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ markFuse()
+comment3.text=\r\n\ Marks\ the\ detonation\ fuse\ of\ the\ shot\r\n
+numComments=4

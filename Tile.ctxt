@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Base\ tiles\ for\ terrain\r\n\ \r\n\ @author\ Marco\ Ly\r\n\ help\ with\ finding\ bugs\ by\ Hyson\ Leung\r\n\ @version\ 2.2\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Tile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ isFalling()
+comment2.text=\r\n\ Checks\ if\ there\ is\ nothing\ between\ the\ bottom\ of\ the\ object\ and\ the\ downward\ velocity\ of\ the\ object.\ \r\n\ If\ there\ is,\ snap\ the\ object\ to\ rest\ directly\ above\ the\ intersecting\ object.\r\n
+numComments=3

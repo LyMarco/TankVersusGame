@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counter\ that\ displays\ a\ number.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ slightly\ altered\ by\ Marco\ Ly\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Constructor\ for\ Counter\r\n
+comment2.params=prefix\ initialValue
+comment2.target=Counter(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ for\ Counter\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment5.params=score
+comment5.target=void\ subtract(int)
+comment6.params=
+comment6.target=int\ getValue()
+comment7.params=value
+comment7.target=void\ setValue(int)
+comment8.params=
+comment8.target=void\ updateImage()
+comment8.text=\r\n\ Make\ the\ image\r\n
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ main\ menu\ \r\n\ \r\n\ @author\ Marco\ Ly\r\n\ @version\ 2.2\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ Constructor\ for\ MainMenu\r\n
+comment2.params=
+comment2.target=void\ terminateMusic()
+comment2.text=\r\n\ Stops\ the\ menu\ music\r\n
+numComments=3
